@@ -22,4 +22,4 @@ Technologies Used:
 - Microsoft Excel/Word
 
 Files:
-[View the PDF Report](Reports/Tech Sales Reps Final Report (1).pdf)
+[View the PDF Report](Reports/Tech_Sales_Reps_Final_Report_(1).pdf)
