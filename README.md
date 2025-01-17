@@ -5,6 +5,9 @@ Welcome to my GitHub repository! Here you will find a collection of some of the 
 ___
 ___
 ### Analzing Technology Sales Representatives: The Impact of Traits on Employee Metrics
-Project Description: A team project tasked with conducting business analysis on a big dataset. The data contained information on 21,990 tech sales representatives for hardware and software teams of a large technology company including performance metrics, demographic data, peer feedback, customer satisfaction indicators, and other identifying factors, offering a comprehensive view of the traits and skills that define top-performing sales representatives.
+Project Description: Worked as a team of four MSBA students to conduct business analysis on a big dataset. Cleaned data on 21,990 hardware and software sales representatives from a large technology company including employee performance metrics, demographics, peer feedback, customer satisfaction indicators, other identifying factors to help answer: 1) What is the ideal tech sales representative? 2) Which variables best predict feedback and net promoter score? 3) How can the data assist in salary negotiations? 
 
 Course: GSB 530 Data Mining and Analytics for Business
+
+Skills Used:
+- Data Cleaning
