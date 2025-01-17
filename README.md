@@ -23,3 +23,23 @@ Technologies Used:
 
 Files:
 - [Report](Reports/Tech_Sales_Reps_Final_Report.pdf)
+
+___
+
+### Kaggle - Predicting Political Affiliation
+Project Description: 
+
+Course: GSB 544 - Computing and Machine Learning for Business Analytics 
+
+Skills Used:
+- Data Cleaning
+- Classification
+- 
+
+Technologies Used:
+- Python
+-
+
+Files:
+ - Data
+ - Codebook
