@@ -87,4 +87,4 @@ Technologies Used:
 - Matplotlib 
 
 Files:
- - [Report (Markdown File)](Reports/Cannabis_Multiclass_Classification.ipynb)
+ - [Report (Markdown File)](https://github.com/alexuchimura01/projects/blob/47d60840c0877f05df0b274a93633a0866df07f8/Reports/Cannabis_Multiclass_Classification.html)
