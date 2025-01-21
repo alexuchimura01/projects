@@ -26,8 +26,8 @@ Files:
 
 ___
 
-### Kaggle - Predicting Political Affiliation and House Prices
-Project Description: 
+### Kaggle - Predicting Political Affiliation
+Project Description: Kaggle competition as part of final assessment for Computing and Machining Learning for Business Analytics. 
 
 Course: GSB 544 - Computing and Machine Learning for Business Analytics 
 
@@ -43,3 +43,25 @@ Technologies Used:
 Files:
  - Data
  - Codebook
+
+___
+
+### Kaggle - Predicting House Prices
+Project Description: Kaggle competition as part of final assessment for Computing and Machining Learning for Business Analytics. 
+
+Course: GSB 544 - Computing and Machine Learning for Business Analytics 
+
+Skills Used:
+- Data Cleaning
+- Classification
+- 
+
+Technologies Used:
+- Python
+-
+
+Files:
+ - Data
+ - Codebook
+
+
