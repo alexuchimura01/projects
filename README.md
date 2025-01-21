@@ -26,7 +26,7 @@ Files:
 
 ___
 
-### Kaggle - Predicting Political Affiliation
+### Kaggle - Predicting Political Affiliation and House Prices
 Project Description: 
 
 Course: GSB 544 - Computing and Machine Learning for Business Analytics 
