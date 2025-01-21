@@ -54,7 +54,7 @@ Course: GSB 544 - Computing and Machine Learning for Business Analytics
 Skills Used:
 - Data Cleaning
 - Random Forest
-- Regression (Ridge, Lasso, Elastic Net)
+- Regression (Ridge, Lasso, Elastic Net) 
 - Model Tuning/Cross Validation
 - Model Pipelines
 
