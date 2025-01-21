@@ -47,13 +47,13 @@ Files:
 ___
 
 ### Kaggle - Predicting House Prices
-Project Description: Kaggle competition as part of final assessment for Computing and Machining Learning for Business Analytics. 
+Project Description: Kaggle competition as part of final assessment for Computing and Machining Learning for Business Analytics. Used a dataset with information about properties sold in Ames, Iowa (compiled by Dean De Cock) to form a model that predicts Sale Price. Missing values were abundantly present in the 'Lot Frontage' variable, so a small Random Forest model was implemented to create predictions 'Lot Frontage' missing values. Many models were attempted to yield the lowest possible Root-Mean-Squared-Error (Kaggle's competition metric of choice). These included ridge, lasso, and elastic net models with various combinations of predictor values. Coefficient analysis was used for dimension reduction, revealing that variables like 'TotRms AbvGrd' and 'Lot Frontage' (to name a few) created too much noise that hindered predictive accuracy. The best proposed model was a ridge regression model with resulting RMSE values of 0.1353 and 0.14609 on the training and test data, respectively. This model outperformed other models due to a polynomial term on 'Gr Liv Area'. Please see the attached codebook for further analysis. 
 
 Course: GSB 544 - Computing and Machine Learning for Business Analytics 
 
 Skills Used:
 - Data Cleaning
-- Random Forest Model
+- Random Forest
 - Regression (Ridge, Lasso, Elastic Net)
 - Model Tuning/Cross Validation
 - Model Pipelines
@@ -61,7 +61,6 @@ Skills Used:
 Technologies Used:
 - Python
 - Scikit-learn
-
 
 Files:
  - [Housing Price Data](Data/train_new.csv)
