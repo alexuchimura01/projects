@@ -69,7 +69,7 @@ Files:
 ___
 
 ### Model Metric Classification Methods with Cannabis Strains
-Project Description: Explored binary and multiclass classification methods and their appropriate metrics using cannabis data 
+Project Description: Explored binary and multiclass classification methods using extensive data on cannabis strain reviews. Used this data to predict strain type based off of strain rating, effects, and flavor. Employed various classification techniques to simulate best model types for for OvO (one versus one) and OvR (one versus rest) scenarios (i.e. creating a SVC model off of a subset of just Indica and Sativa and comparing that model performance on the full dataset with addition of Hybrid strain... OR using Sativa and Hybrid data to just predict Indicas). Ultimately found that groups that are most opposite (i.e. sativa versus indica) did the best job at differentiating the two compared to hybrid and sativa or hybrid and indica. 
 
 Course: GSB 544 - Computing and Machine Learning for Business Analytics 
 
@@ -87,4 +87,5 @@ Technologies Used:
 - Matplotlib 
 
 Files:
+ - [Data](Data/cannabis_full.csv)
  - [HTML Report (please download and open this file from GitHub by clicking on the three dots in the top right corner (after clicking this link))](Reports/Cannabis_Multiclass_Classification.html)
