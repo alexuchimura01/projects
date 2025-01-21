@@ -69,7 +69,7 @@ Files:
 ___
 
 ### Model Metric Classification Methods with Cannabis Strains
-Project Description: 
+Project Description: Explored binary and multiclass classification methods and their appropriate metrics using cannabis data 
 
 Course: GSB 544 - Computing and Machine Learning for Business Analytics 
 
