@@ -27,22 +27,22 @@ Files:
 ___
 
 ### Kaggle - Predicting Political Affiliation
-Project Description: Kaggle competition as part of final assessment for Computing and Machining Learning for Business Analytics. 
+Project Description: Kaggle competition as part of final assessment for Computing and Machining Learning for Business Analytics. Examined a subset of political affiliation data from March 2018 by Survey Sampling International which included survey questions and responses regarding demographics, psychographics, and general political outlooks of survey participants. Created multiple classification models to predict political affiliation (Democrat, Republican, or Independent) on training data provided by Kaggle using accuracy as the preferred competition model metric. Initial attempt at a logistic regression model yielded the highest accuracy compared to other models on the training data (0.6275). Therefore, a logistic model with all predictors and generally balanced tuned parameters yielded a test data accuracy of 0.6024.
 
 Course: GSB 544 - Computing and Machine Learning for Business Analytics 
 
 Skills Used:
-- Data Cleaning
-- Classification
-- 
+- Classification (Logistic Regression)
+- Model Tuning/Cross Validation
+- Model Pipelines
 
 Technologies Used:
 - Python
--
+- Scikit-learn
 
 Files:
  - [Political Survey Data](Data/CAH-201803-train.csv)
- - Codebook
+ - [Kaggle Codebook](Codebooks/take_home_final.ipynb)
 
 ___
 
@@ -53,15 +53,18 @@ Course: GSB 544 - Computing and Machine Learning for Business Analytics
 
 Skills Used:
 - Data Cleaning
-- Classification
-- 
+- Random Forest Model
+- Regression (Ridge, Lasso, Elastic Net)
+- Model Tuning/Cross Validation
+- Model Pipelines
 
 Technologies Used:
 - Python
--
+- Scikit-learn
+
 
 Files:
- - Data
- - Codebook
+ - [Housing Price Data](Data/train_new.csv)
+ - [Kaggle Codebook](Codebooks/take_home_final.ipynb)
 
 
