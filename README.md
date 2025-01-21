@@ -66,4 +66,25 @@ Files:
  - [Housing Price Data](Data/train_new.csv)
  - [Kaggle Codebook](Codebooks/take_home_final.ipynb)
 
+___
 
+### Model Metric Classification Methods with Cannabis Strains
+Project Description: 
+
+Course: GSB 544 - Computing and Machine Learning for Business Analytics 
+
+Skills Used:
+- Data Cleaning
+- Data Visualization
+- Classification (Decision Tree, SVC, SVM, LDA, QDA, Logistic Regression)
+- Model Tuning/Cross Validation
+- Model Pipelines
+- Model-Metric Analysis
+
+Technologies Used:
+- Python
+- Scikit-learn
+- Matplotlib 
+
+Files:
+ - [Report (Markdown File)](Data/train_new.csv)
